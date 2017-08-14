@@ -17,7 +17,7 @@
 
 1. `python jobcomposer.py inputfile.txt jobsfile.sh database_name`  
 The system was developed to copare dynamics of diffusion of real and fake news, so it is important to separate these two types of news. For this you should use 2 input files, 2 output files and 2 databases. It is not necessary to create the databases prior to using this system.
-2. `chmod +x ./jobsfile.sh && ./jobshile.sh`
+2. `chmod +x ./jobsfile.sh && ./jobsfile.sh`
 3. `python dropextracollections.py database_name`
 4. `python tweetseliminator.py database_name`
 5. `jupyter notebook`
