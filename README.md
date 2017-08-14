@@ -11,9 +11,9 @@
 ## Usage
 1. Create a text file with one news headline per line:
 
-Donald Trump Says Transgender People Should Use the Bathroom They Want
-This may shock you: Hillary Clinton is fundamentally honest | Jill Abramson
-I Miss Barack Obama
+>Donald Trump Says Transgender People Should Use the Bathroom They Want  
+></Donald>This may shock you: Hillary Clinton is fundamentally honest | Jill Abramson  
+>I Miss Barack Obama  
 
 2. `python jobcomposer.py inputfile.txt jobsfile.sh database_name`
 3. `chmod +x ./jobsfile.sh && ./jobshile.sh`
