@@ -10,15 +10,15 @@
 
 ## Usage
 1. Create a text file with one news headline per line:
->Donald Trump Says Transgender People Should Use the Bathroom They Want
->This may shock you: Hillary Clinton is fundamentally honest | Jill Abramson
->I Miss Barack Obama
->The rise of Donald Trump is a terrifying moment in American politics
->Max Lucado: Trump doesn’t pass the decency test
->No, Not Trump, Not Ever
->John Oliver has the Donald Trump takedown America has been waiting for
->Under Sanders, income and jobs would soar, economist says
->The moment of truth: We must stop Trump
+> Donald Trump Says Transgender People Should Use the Bathroom They Want
+> This may shock you: Hillary Clinton is fundamentally honest | Jill Abramson
+> I Miss Barack Obama
+> The rise of Donald Trump is a terrifying moment in American politics
+> Max Lucado: Trump doesn’t pass the decency test
+> No, Not Trump, Not Ever
+> John Oliver has the Donald Trump takedown America has been waiting for
+> Under Sanders, income and jobs would soar, economist says
+> The moment of truth: We must stop Trump
 
 2. `python jobcomposer.py inputfile.txt jobsfile.sh database_name`
 3. `chmod +x ./jobsfile.sh && ./jobshile.sh`
