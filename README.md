@@ -1,3 +1,5 @@
+# Statistical analysys for my bachelor thesis named "Comparison of the diffusion of real and fake news in social networks"
+
 ## Prerequisites
 - python (2.7 was used to develop, I'm not sure if 3 is completely compatible)
 - jupyter notebook
